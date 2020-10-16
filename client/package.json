@@ -1,0 +1,11 @@
+{
+    "name": "fastbeat",
+    "version": "0.0.1",
+    "description": "voice chat",
+    "dependencies": {
+        "express": "*"
+    },
+    "scripts": {
+        "start": "node app.js"
+    }
+}
