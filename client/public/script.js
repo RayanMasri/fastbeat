@@ -1,6 +1,4 @@
-console.log('hi');
-
-let ws = new WebSocket('ws://localhost:3000/');
+let ws = new WebSocket('ws://localhost:9000 /');
 
 ws.onopen = () => {
     console.log('open');
